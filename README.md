@@ -63,6 +63,7 @@ For this project, the **OpenTAP Editor** with a Community License was used to de
 <br>
 
 
+[tutorial OPenTap installation and run](https://github.com/user-attachments/assets/2c5947b3-5242-4181-8e65-9a56f65d30c7)
 
 # Installation and Setup Guide
 
